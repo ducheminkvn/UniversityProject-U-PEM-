@@ -1,0 +1,8 @@
+{
+	"Port" : 8080,
+	"LogsPath" : "./output/logsServer/",
+	"DefaultInputPath" : "./input/",
+	"FilesAnswerPath" : "./output/answer/",
+	"MaxSizeFileAnswer" : 2000,
+	"ComeBackTime" : 300
+}

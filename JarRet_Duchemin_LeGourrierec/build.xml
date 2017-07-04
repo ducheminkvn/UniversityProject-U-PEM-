@@ -1,0 +1,41 @@
+<project name="JarRet" basedir=".">
+  <!-- define some propreties -->
+  <property name="src"     value="src"/>
+  <property name="classes" value="bin/"/>
+  <property name="docs"    value="docs"/>
+  
+<!-- generate your javadoc -->
+<target name="javadoc" description="generate javadoc">
+    <mkdir dir="${docs}/api"/>
+    <javadoc sourcepath="${src}" destdir="${docs}/api">
+	 <fileset dir="${src}">
+		 <include name="*.java" />
+	 </fileset>
+	</javadoc>
+</target>
+
+<!-- clean the project -->
+<target name="clean" description="clean project">
+    <delete includeemptydirs="true">
+		<fileset dir="${classes}" includes="**/*"/>
+	</delete>
+</target>
+
+<!-- compile your classes -->
+<target name="compile" description="compile project">
+	<mkdir dir="${classes}"></mkdir>
+    <javac srcdir="${src}" destdir="${classes}" includeantruntime="false">
+    </javac>
+</target>
+
+<!-- construct the jar of your project-->
+<target name="jar" description="create jar">
+    <jar jarfile="ServerJarRet.jar" manifest ="MANIFEST-SERVER.MF">
+	  <fileset dir="${classes}" includes="**/*"/>
+	</jar>
+	<jar jarfile="ClientJarRet.jar" manifest ="MANIFEST-CLIENT.MF">
+	  <fileset dir="${classes}" includes="**/*"/>
+	</jar>	
+ </target>
+ 
+</project>
