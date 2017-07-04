@@ -1,0 +1,33 @@
+CONST A =22, b=30;
+main(){	
+	entier X;entier b;
+	print(32);
+	print('b');
+	read(d);
+	print(d);
+	if (15==15 && 14>=14){
+	if(1!=4)
+		{
+		print (12);
+		print (20);
+		}
+	else
+		{
+		while( 2>3 || 4==3 )
+			{
+			print (40);
+			print (41);
+			}
+		}
+	}
+	print(d);
+	print('a');
+	X=0;	
+	print(X);
+	X=2;
+	print(X);
+	print(A);
+	print(b);
+
+	return 0;
+}
