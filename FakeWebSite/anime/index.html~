@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+<title>Bienvenue sur ao no kei</title>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+<style type="text/css">
+	#imagemap   {position: absolute;
+				 width: 100%;
+				 height: 970px;
+				 background: url("images/index.jpg") top center no-repeat;
+				    }
+	.map {
+			float: left;
+			width: 50%;
+			height: 970px;
+			margin-top: 0px;
+			margin-left: 0px;
+			border: 1px  Cyan;
+			}
+	.p {
+		right:40%;
+		}
+	.d {
+		right:10px;
+		}
+</style>
+</head>
+
+<body>
+<div id="imagemap">
+	<a href="contact.html" title="contact" class="map"></a>
+	<a href="accueil.html" title="Accéder au site" class="map"></a>
+	</div>
+
+
+
+
+
+</body>
+</html>

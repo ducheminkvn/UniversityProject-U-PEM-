@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+<title>Anime - accueil</title>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="style.css">
+<style type="text/css">
+body{background-image: url(images/accueil.jpg);}
+</style>
+</head>
+
+<body>
+<div>
+<a name="debut"><img src="images/ban.png" alt="Bannière" class="ban"></a>
+<a href="accueil.html" ><img style="left:12%;" src="images/accueilmini.png" alt="Accueil" class="menu"></a>
+<a href="resume.html" ><img style="left:30%;" src="images/resumemini.png" alt="Résumer" class="menu"></a>
+<a href="../index.html" ><img style="left:48%;" src="images/index.png" alt="index" class="menu"></a>
+<a href="perso.html" ><img style="left:66%;" src="images/persomini.png" alt="Personnages" class="menu"></a>
+<a href="contact.html" ><img style="left:84%;" src="images/contactmini.png" alt="Contactez-moi" class="menu"></a>	
+</div>
+
+<div class="contenu">
+Bienvenue à vous,<br>
+j'ai créé ce site dans le but de vous présenter une oeuvre de la Japanimation issus d'un jeu vidéo nommé <br>
+<i><b>Umineko no naku koro ni(When They Cry 3)</b></i><br>
+Cet anime est un anime composé de 26 épisodes disponibles au japon, de type: horreur, mystère, surnaturel,thriller. 
+<br>
+<a href="../liens.html" title="accès au cahier des charges et aux sources">Accès au cahier des charges et aux sources</a>
+<div>
+<h1>Voici un trailer et les opening et ending de l'anime (provenant de Youtube):</h1>
+<iframe src="http://www.youtube.com/embed/qsC6u31TEEk" ><</iframe>
+<iframe src="http://www.youtube.com/embed/ScUHens70QA" class="vid" ></iframe>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<iframe src="http://www.youtube.com/embed/rqwQX1teeWc" class="vid"></iframe>
+</div>
+<div>
+<a href="#debut" ><img src="images/retour.png" alt="retourner au début de la page" class="return"></a>
+<a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Strict" height="31" width="88"></a>
+<br>site en HTML5.
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="CSS Valide !" />
+</a>
+
+</div>
+</div>
+</body>
+</html>

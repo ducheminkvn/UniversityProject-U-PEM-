@@ -1,0 +1,230 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+<title>Anime - Personnages</title>
+<meta http-equiv="content-type" content="text/html;charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="style.css">
+<style type="text/css">
+#mini {
+	width: 50px;
+	height: 50px;
+	}
+body{background-image: url(images/accueil.jpg);}
+img {
+	border: none;
+	}
+
+</style>
+</head>
+
+<body>
+<div style="position:center;">
+<a name="debut"><img src="images/ban.png" alt="Bannière" class="ban"></a>
+<a href="accueil.html" ><img style="left:12%;" src="images/accueilmini.png" alt="Accueil" class="menu"></a>
+<a href="resume.html" ><img style="left:30%;" src="images/resumemini.png" alt="Résumer" class="menu"></a>
+<a href="../index.html" ><img style="left:48%;" src="images/index.png" alt="index" class="menu"></a>
+<a href="perso.html" ><img style="left:66%;" src="images/persomini.png" alt="Personnages" class="menu"></a>
+<a href="contact.html" ><img style="left:84%;" src="images/contactmini.png" alt="Contactez-moi" class="menu"></a>	
+</div>
+
+<div class="contenu">
+<img src="images/battler.jpg" alt="" > Ushiromiya Battler
+<p>Battler Ushiromiya est le protagoniste et le narrateur de l'histoire. Il est le seul à complètement refuser de croire en la légende de Béatrice la sorcière dorée.
+Battler est le fils de Rudolf Ushiromiya et d'Asumu. Après la mort de cette dernière et le remariage de son père avec Kyrie, Battler passa six ans de sa vie chez ses grand-parents maternels.
+Maintenant âgée de 18 ans, il réintègre la famille de son père et cela le mènera à se trouver sur l'île de Rokenjima le jour fatidique. 
+</p>
+<hr>
+<img src="images/maria2.jpg" alt="" > Ushiromiya Maria
+<p>Maria est la fille de Rosa Ushiromiya. Elle n'a jamais connu son père et à été élevée seule par Rosa. Maria possède une imagination sans limite et raffole de tous ce qui touche les sorcières et la magie.
+
+Elle n'a pas d'amis et la réunion familiale est une des rares occasion pour elle d'avoir des contacts sociaux avec ses cousins.
+
+Elle croit dure comme fer la légende de la sorcière dorée et cela la porte à un comportement asocial voir cruel lors de la tragédie.
+</p>
+<hr>	
+<img src="images/jessica2.jpg" alt=""> Ushiromiya Jessica
+<p>Jessica est la fille de Krauss Ushiromiya et de Natsuhi Ushiromiya. Elle a 18 ans. Après son père c'est elle qui devrait (en théorie) devenir la chef de famille. Cela a poussé Natsuhi à lui donner une éducation très dure.
+
+Elle se donne des allures de garçon manqué et son rêve le plus cher serait d'abandonner cette famille qu'elle déteste (hormis les cousins).
+
+Elle est amoureuse du serviteur Kanon
+</p>
+<hr>	
+<img src="images/george.jpg" alt="" > Ushiromiya George
+<p>George est le fils d'Eva Ushiromiya et d'Ieyoshi Ushiromiya. Il a 21 ans et cela fait de lui le seul adulte parmi la jeune génération. Sa mère Eva est prête a tout pour le mener à hériter du titre de chef de famille à la place de Jessica. George, quant à lui, ne souhaite que devenir chef d'entreprise comme son père.
+
+Il est quelqu'un de gentil et attentionné. Parmi ses cousins il fait office de la figure du grand frère.
+
+Il rêve de marier la servante Shannon même s'il sait que cela lui mettra beaucoup de gens (dont sa mère) à dos.
+</p>
+<hr>
+<img src="images/rosa2.jpg" alt="" > Ushiromiya Rosa
+<p>C'est la mère de Maria Ushiromiya. Elle porte l'aile de la famille Ushiromiya.
+Elle a tendance à s'énerver à cause de sa fille Maria qui fait toujours "Uhuhuhu", mais en réalité c'est une femme qui sait se montrer aimante.
+L'absence de père pour Maria à rendue Rosa peu présente, laissant souvent sa fille en second plan.
+</p>
+<hr>
+<img src="images/eva.jpg" alt="" > Ushiromiya Eva
+<p>Eva Ushiromiya est la tante de Battler. Elle porte l'aile de la famille. C'est la femme de Hideyoshi Ushiromiya. Et la mère de Georges. Elle est très envieuse de son grand frère qui est le successeur de la famille et aime provoquer sa femme qui ne fait pas partie de la famille. Elle s'allie à son frére Rudolf et sa soeur Rosa afin d'empécher Krauss d'avoir le monopole de l'héritage de Kinzo.
+</p>
+<hr>
+<img src="images/natsu.jpg" alt="" > Ushiromiya Natsuhi
+<p>Ushiromiya Natsuhi (右代宮 夏妃), femme de Krauss et mère de Jessica. Elle est fière du nom d'Ushiromiya, bien qu'elle ne fasse pas partie de la famille par le sang (mais par liens du mariage avec Krauss, premier fils de Kinzo), et ne porte donc pas par conséquent l'aile, emblème de la famille. D'ailleurs Eva aime bien humilier Natsuhi à ce sujet, lui rappelant que son mariage avec Krauss n'était qu'une décision familiale pour assurer une descendance à l'héritier, et combien avant d'avoir eu Jessica, Natsuhi avait eu du mal à avoir un enfant.
+
+Elle espère faire de Jessica une héritière digne du nom d'Ushiromiya, ce qui fait qu'elle se comporte souvent durement avec cette dernière. Souvent affectée par des migraines, et se laissant facilement emporter par la colère quand on ose critiquer le nom de la famille ou son mari en face d'elle, elle est pourtant digne de confiance et possède une grande fierté, et c'est elle qui s'occupe de l'organisation de la réunion annuelle. Elle s'occupe aussi de la maison et famille, à la place de Krauss qui se préoccupe uniquement de son travail. 
+</p>
+<hr>
+<img src="images/kyrie.jpg" alt="" > Ushiromiya Kyrie
+<p>Description	
+Kyrie est la seconde épouse de Rudolf, la mère de Ange et la belle-mère de Battler, Même si celui-ci la voit plutôt comme une grande soeur. C'est elle qui a appris à Battler à "retourner l'échiquier"
+
+Elle a une plus jeune soeur qui s'appelle Kasumi Sumadera. 
+</p>
+<hr>
+<img src="images/ange.jpg" alt="" > Ushiromiya Ange
+<p>Ange est la fille de Kyrie et Rudolf et donc la demi-soeur de Battler. Elle est aussi la successeur de Eva au titre de Beatrice.
+Désirant rejoindre sa famille dans l'au-delà, elle tente de se suicider mais est interrompue par Bernkastel qui lui propose de découvrir ce qu'il s'est passé sur l'île de Rokkenjima en 1986. Elle arrive donc du futur (année 1998) pour comprendre pourquoi toute la famille mis à part Eva sont mort, et ainsi essayer de sauver Battler.
+Tout comme son demi-frère, Elle ne croit pas en l'existence des sorcières.
+
+Ange aurait pu aller à Rokkenjima en 1986 avec tout le monde mais elle est tombée malade et n'a pas pu partir.
+En 1986, elle a 6 ans et en 1998 18 ans.
+</p>
+<hr>
+<img src="images/kinzo.jpg" alt="" > Ushiromiya Kinzo
+<p>Kinzo est à la tête de la famille Ushiromiya et est le propriétaire de Rokkenjima.
+Tout au long des 4 premiers arcs, Kinzo ne sort que rarement de sa chambre extrêmement sécurisé.
+
+On le retrouve fréquemment brûlé dans l'incinérateur de la chaufferie de la maison.
+
+Son corps est facilement identifié, étant donné qu'il est atteint de la polydactylie (6 orteils).
+Toute sa vie, Kinzo a tenu ses enfants dans le mépris, les considérant comme des vautours prêts à lui voler son héritage dès l'instant de sa mort annoncé.
+
+Il pratiquait aussi la magie noire et l'occultisme. Son obsession était la Sorcière Dorée, Béatrice, qu'il dit avoir convoqué et engagée pour une valeur de 10 tonnes d'or.
+</p>
+<hr>
+<img src="images/gohda.jpg" alt="" > Gohda Toshiro
+<p>Gohda Toshiro (郷田 俊朗), est le cuisiner de la maison Ushiromiya, engagé par le couple Krauss-Natsuhi, ce qui explique qu'il ne porte pas l'aile de la famille, contrairement à Genji, Shannon et Kannon. Il est très doué en cuisine, et en est fier. D'ailleurs ayant travaillé auparavant dans un grand hôtel, il semble légèrement arrogant envers Shannon et Kannon, mais en fait on découvre un homme sensible, qui s'inquiète beaucoup des autres. Et qui malgré sa peur n'hésite pas à protéger ses maitres et collègues.
+</p>
+<hr>
+<img src="images/kanon.jpg" alt="" > Kanon
+<p>Kanon est un serviteur de la famille Ushiromiya depuis son tout jeune âge. Il est discret et efficace. Avec Genji et Shannon, il est l'un des rares à avoir le droit de porter l'aile dorée, le symbole de la famille Ushiromiya.
+
+Il suit une vieille tradition qui met les serviteurs au même niveau qu'un meuble ou un objet. Il a refusé toute les avances de Jessica.
+
+Il est très protecteur envers Shannon. Il se fait passer pour le petit frère de celle-ci, bien qu'il n'a aucun lien de parenté avec cette dernière.
+</p>
+<hr>	
+<img src="images/shannon.jpg" alt="" > Shannon	
+<p>Shannon est une servante très timide de la famille Ushiromiya. Elle est très dévouée et cela lui vaut le droit de porter l'aile dorée, symbole de la famille Ushiromiya. Genji et Kannon sont les seuls à posséder aussi ce droit.
+
+Elle passe beaucoup de temps avec les cousins et elle cache difficilement ses émotions lors des avances de George Ushiromiya.
+
+Elle respecte les superstitions sur la sorcière dorée et croit que la magie est possible.
+
+Elle considère Kanon comme son frère puisqu'ils ont été élevé à la même orphelinat. 
+</p>
+<hr>
+<img src="images/evabeato.jpg" alt="" > Eva-Beatrice
+<p>Eva-Beatrice est la successeur de Beatrice. Elle apparait lorsqu'Eva résout l'énigme de l'épitaphe. Elle a l'apparence d'Eva quand elle était adolescente.
+Elle utilise les Siestas pour se battre et éventuellement les sept soeurs du purgatoire.
+Elle prend beaucoup de plaisir à tuer de la manière la plus cruelle possible.
+
+Malgré le fait qu'Eva ai résolu l'énigme, ce qui devrait normalement mettre fin aux meurtres, Eva-Beatrice continue à tuer afin d'ouvrir le passage qui mène à la terre dorée et également pour être reconnue comme la vraie, seule et unique Beatrice.
+</p>
+<hr>
+<img src="images/fred.jpg" alt="" > Frederica Bernkastel	
+<p>Frederica Bernkastel est la Sorcière des Miracles ayant vécu des milliers d'années. Elle apparaît dans le jeu de Beatrice afin de vaincre son ennui. Elle ne supporte pas de voir le joueur se faire torturer dans ce jeu. Par conséquent, elle l'aide en lui donnant de nombreux indices durant la partie.
+
+Frederica est aussi une sorcière ayant le pouvoir de voyager de Kakera en Kakera. Ainsi, elle aurait été omniprésente dans l'univers d'Higurashi afin d'aider Rika Furude à vaincre son propre destin en Juin 1983.
+
+La prononciation de Frederica fait penser à celle de Furude Rika, cependant, Bernkastel affirme que ces deux personnes sont différentes malgré leur ressemblance.
+</p>
+<hr>
+<img src="images/lambda2.jpg" alt="" > Lambdadelta
+<p>Lambdadelta est la Sorcière de la Certitude ayant vécue des milliers d'années. Elle a été battue par Bernkastel lors d'un précédent jeu. Elle est la sorcière la plus puissante aux côtés de Bernkastel, et est crainte par toutes les autres sorcières, y compris Beatrice.
+
+Tout comme Bernkastel, elle a le pouvoir de voyager entre les mondes. Dans Higurashi, on peut l'associer au personnage de Takano Miyo.
+
+Son nom, Lambdadelta, signifie 34 lorsqu'il est écrit en lettres Grec (λδ). Tandis que Miyo (三四) se traduit en 3 et 4 en Japonais.
+</p>
+<hr>
+<img src="images/virgilia.jpg" alt="" > Virgilia
+<p>Virgilia (ワルギリア), est l'ancien professeur de Beatrice, et donc la précédente "Endless Witch". Son nom provient du personnage de "Virgil" dans la Divine Comédie). Elle a souvent les yeux fermées, ou entrouverts, laissant paraitre un regard quelque peu effrayant... 
+</p>
+<hr>
+<img src="images/beato2.jpg" alt="" > Beatrice
+<p>Béatrice (ベアトリーチ, Beatoriche) est une sorcière qui aurait vécu un millénaire d'après la légende. On dit qu'elle est à l'origine de la fortune de Ushiromiya Kinzo, avec qui elle aurait passé un contrat, conférant à ce dernier dix tonnes d'or. Elle lui aurait permis de bâtir sa fortune actuelle. En échange de quoi, lorsque le contrat viendra à terme, Beatoriche (surnommée "The Golden Witch") pourra réclamer tout ce que Kinzo aura engendré...
+
+Son portrait commandé par Kinzo, est accroché au mur du hall du manoir Ushiromiya, et un épitaphe y est associé, où une énigme y est inscrite. Celui qui réussira à la résoudre se verra acquérir les dix tonnes d'or offerts par la sorcière.
+Béatrice est représentée sous sa forme humaine, mais se matérialise aussi sous forme de papillons dorés. 
+</p>
+<hr>
+<img src="images/ronove.jpg" alt="" > Ronove
+<p>Ronove (ロノウェ) est le chef des domestiques de Beatrice (comme il se présente lui-même), et aussi un démon de haut rang (celui duquel il tire son nom). On le voit souvent servir du thé noir et des petits gâteaux. 
+</p>
+<hr>
+<img src="images/asmo.jpg" alt="" > Asmodeus
+<p>Asmodeus fait partie des Sept Soeurs du Purgatoire et correspond au péché de la Luxure. Elle est la plus jeune et est toujours traitée avec affection par ses autres soeurs. Elle souhaite tomber amoureuse afin que ses soeurs la considère comme une adulte.
+</p>
+<hr>
+<img src="images/satan.jpg" alt="" > Satan
+<p>Satan fait partie des Sept Soeurs du Purgatoire et correspond au péché de la Colère. Elle s'énerve facilement, mais cherche souvent à être en colère avec elle-même.
+</p>
+<hr>
+<img src="images/lucifer.jpg" alt="" > Lucifer
+<p>Lucifer (ルシファー) est la sœur ainée parmi les 7 stakes du purgatoires (ou sœur du purgatoires, fournitures de Beatrice, lui obéissant ainsi qu'à Ronove). Elle incarne le péché de "l'orgueil", et est hautaine et méprisante.
+
+Son nom vient de celui de l'ange déchu "Lucifer".
+
+Elle peut (comme toutes les stakes) faire apparaitre une épée à son bras pour combattre, et se transformer en pieu (d'où le nom de stake) pour tuer sa cible. Ses yeux sont rouges comme pour toutes les autres stakes
+</p>
+<hr>
+<img src="images/levia2.jpg" alt="" > Leviathan
+<p>Leviathan fait partie des Sept Soeurs du Purgatoire et correspond au péché de l'envie. Elle est la seconde plus vieille des sept soeurs.
+Par nature, elle est jalouse, égoïste et pleurnicharde et est quelqu'un qui ferait tout pour gagner. Sa personnalité brutale lui permet de repérer facilement les faiblesses des autres.
+Malheureusement pour elle, elle est maladroite dans tout ce qu'elle fait et est toujours la dernière des sept pour tout.
+</p>
+<hr>
+<img src="images/belph.jpg" alt="" > Belphegor
+<p>Belphegor est l'une des sept soeurs du purgatoire et représente le péché de la paresse. Elle est laborieuse et réfléchie. Sa nature sérieuse fait d'elle la plus digne de confiance des sept soeurs.
+</p>
+<hr>
+<img src="images/mammon2.jpg" alt="" > Mammon
+<p>Mammon est la 3° plus jeune des Sept Soeurs du Purgatoire et correspond au péché de l'avarice. Elle a la capacité d'agir rapidement et fait tout pour obtenir ce qu'elle veut, ce qui entraine souvent des conflits entre elle et ses sœurs.
+Elle devient amie avec Ange.
+</p>
+<hr>
+<img src="images/siesta45.jpg" alt="" > Siesta 45
+<p>Son nom vient du fusil Winchester. 45. Siesta 45, contrairement à Siesta 410, prend son "boulot" très au sérieux, même si elle est de nature plutôt hésitante.
+
+Lors de ses attaques avec Siesta 410, son rôle est de contrôler l'attaque, collecter des informations, exploiter les données, calculer la trajectoire et envoyer le tout à Siesta 410.
+</p>
+<hr>
+<img src="images/siesta410.jpg" alt="" > Siesta 410
+<p>Son nom vient du fusil de chasse Winchester calibre 410. Contrairement à Siesta 45, Siesta 410 a un sourire enfantin, idiot sur son visage la plupart du temps et fait souvent "Nihihi" et autres petites expressions bien à elle.
+Elle et Siesta 45 forment une sorte d'équipe dont elle est le tireur principal. Pour tirer, elle utilise les données fournies par Siesta 45.
+</p>
+<hr>
+<img src="images/siesta00.jpg" alt="" > Siesta 00
+<p>Elle se nomme ainsi d’après la recharge du fusil de chasse "Buck 00". Elle a un bandeau sur l'œil droit et une cicatrice sur son oreille de lapin gauche. En tant que leader, elle est très calme et sérieuse dans son travail. Elle se charge de la garde et de la reconstruction.
+</p>
+<hr>
+<img src="images/saku.jpg" alt="" > Sakutaro
+<p>Sakutaro est un animal en peluche qui ressemble à un lion fait à la main par Rosa, qui l'a offert à Maria pour son anniversaire. Maria a réussi à donner une âme à Sakutaro à travers la magie, et, depuis lors, il est devenu le meilleur ami de Maria. Les 7 péchés capitaux du Purgatoire ont aussi beaucoup d'affection pour lui. Sa forme humaine est un petit garçon aux cheveux blonds, qui porte un chandail jaune avec des manches trop longues, une queue de lion, une écharpe rouge et une casquette avec des oreilles de lion. Il était initialement destiné à s'appeler "Sakura", mais Maria a rajouté le suffixe masculin "Tarou". Sakutaro est détruit par Rosa lors d'une bataille avec Maria.
+A cause du refus de Rosa pour Sakutaro, Béatrice ne peux pas réanimer Sakutaro. Toutefois, il est ressuscité par Ange, plus tard.
+</p>
+<hr>
+<cite>source:Nautiljon</cite>
+</div><div>
+<a href="#debut" ><img src="images/retour.png" alt="retourner au début de la page" class="return"></a>
+<a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Strict" height="31" width="88"></a>
+Site en HTML5.
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="CSS Valide !" />
+</a>
+</div>
+</body>
+</html>

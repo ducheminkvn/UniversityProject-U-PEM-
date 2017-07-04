@@ -1,0 +1,51 @@
+body {
+	font-family: vinque,"comic sans ms",serif;
+	color: yellow;
+	top: 100px;
+	background-color: black;
+	background-attachment: fixed;
+	background-position: top right;
+	background-repeat: no-repeat;
+	}
+.ban {
+	position: fixed;
+	top: 0px;
+	right: 0px;
+	left: 0px;
+	width: 16%;
+	height: 100%;
+	z-index: 2;
+	}
+.menu {
+	top: 2%;
+	float: left;
+	position: fixed;
+	width: 14%;
+	z-index: 5;
+	border: 0px;
+	height: 14%;
+	}
+.contenu {
+	padding-left: 23%;
+	padding-top: 15%;
+	text-shadow: 2px 2px 4px purple;
+	
+	}
+.return {
+	border:0px;
+	height:100px;
+	}
+iframe {  width:250px;
+	 height:150px;
+	border: 0; 
+position: absolute;
+z-index: 1;
+}
+a:visited{
+	color: orange;
+	}
+a{
+	color: red;
+}
+        
+		

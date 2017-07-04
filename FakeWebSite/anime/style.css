@@ -1,0 +1,52 @@
+body {
+	font-family: vinque,"comic sans ms",serif;
+	color: yellow;;
+	top: 100px;
+	background-color: black;
+	background-attachment: fixed;
+	background-position: top right;
+	background-repeat: no-repeat;
+	}
+.ban {
+	position: absolute;
+	top: 0;
+	width:100%;
+	right: 0px;
+	left: 0px;
+	
+	z-index: 2;
+	}
+.menu {
+	position: absolute;
+	width: 15%;
+	z-index: 5;
+	border: 0px;
+	top: 0px;
+	}
+.contenu {
+	padding-top: 20%;
+	text-shadow: 2px 2px 4px red;
+	}
+.perso1 {
+	color: red;
+	}
+.perso2 {
+	color: #ffcb00;
+	}
+.return {
+	border:0px;
+	height:100px;
+	}
+iframe {   width:250px;
+	 height:150px;
+	border: 0; 
+position: absolute;
+z-index: 1;
+}
+a:visited{
+	color: orange;
+	}
+a{
+	color: red;
+}
+.vid{left: 50%;}
